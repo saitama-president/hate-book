@@ -6,6 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Bookmark extends Model{
     
-    
+    public $table=“bookmark”;
+
     
 }
